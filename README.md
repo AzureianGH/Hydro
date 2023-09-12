@@ -1,9 +1,7 @@
 # Hydro Programming Language
-Hydro is a high-level programming language specifically crafted for UI/GUI development. It aims to simplify the process of creating interactive and visually appealing user interfaces for various platforms. Whether you are building desktop applications, mobile apps, or web applications, Hydro provides a unified and intuitive way to design and implement UIs.
-
 ![Hydro Logo](hydro_logo.png)
 
-Hydro is a high-level programming language specifically crafted for UI/GUI development. It aims to simplify the process of creating interactive and visually appealing user interfaces for various platforms. Whether you are building desktop applications, mobile apps, or web applications, Hydro provides a unified and intuitive way to design and implement UIs.
+Hydro is a high-level programming language specifically crafted for UI/GUI development. It aims to simplify the process of creating interactive and visually appealing user interfaces for various platforms. Whether you are building desktop applications or console applications, Hydro provides a unified and intuitive way to design and implement UIs.
 
 ## Features
 
@@ -18,3 +16,15 @@ Hydro is a high-level programming language specifically crafted for UI/GUI devel
 - **Interactive and Dynamic**: Hydro supports interactive and dynamic UIs. You can easily add animations, transitions, and real-time updates to create engaging user experiences.
 
 - **Strong Typing**: The language incorporates strong typing to catch errors at compile-time, reducing runtime issues and enhancing the reliability of your applications.
+
+## Expected Release
+While development has been slow, we expect to have a test build done by October.
+
+## Acknowledgements
+Hydro is brought to you by AzuriTools, a technology company founded by Azureian. We're committed to providing tools and solutions that empower developers and enhance their productivity.
+
+## License
+Hydro is licensed under the [Apache License 2.0](LICENSE).
+
+## Contact
+For inquiries and support, please contact the Hydro team at [azureian@azuritools.com](mailto:azureian@azuritools.com).

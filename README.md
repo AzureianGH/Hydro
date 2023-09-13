@@ -27,9 +27,9 @@ Hydro was created in C#, so the compilation process is straight forward.
 You will need .Net 6/7 and dotnet compiler.
 
 ### Compiling Hydro Source
-- 1. git clone https://github.com/AzureianGH/Hydro.git and cd into the directory. (OPTIONAL: Make sure all files were cloned successfully)
-- 2. Execute dotnet run OR dotnet build if only building.
-- 3. Refer to the docs for build commands. 
+1. git clone https://github.com/AzureianGH/Hydro.git and cd into the directory. (OPTIONAL: Make sure all files were cloned successfully)
+2. Execute dotnet run OR dotnet build if only building.
+3. Refer to the docs for build commands. 
 
 ## Acknowledgements
 Hydro is brought to you by AzuriTools, a technology company founded by Azureian. We're committed to providing tools and solutions that empower developers and enhance their productivity.
